@@ -30,9 +30,9 @@ function sortearAmigo() {
 function verificaListaVacia() {
     if (amigos.length == 0) {
         alert("Debes agregar al menos un amigo");
-        return false
+        return false;
     } else {
-        return true
+        return true;
     }
 }
 
